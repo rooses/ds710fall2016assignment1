@@ -1,8 +1,35 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+
+1. What is your name? 
+	Steve Roose
+
+2. Why are you interested in Data Science? 
+	Working for Verizon today my current team is responsible for maintaining the wireless network data repository utilizing big data technologies.  
+	Through this master's program I hope to gain an outside expert perspective to expand the exploratory, innovation, and research capabilities of 
+	overall IT enablement at Verizon.
+
+3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?  
+	I started out my career in IT as a programmer/analyst about 25 years ago but the last 15 of them I have been in a management position.  In my 
+	current leadership role I only occasionally use SQL to extract data from our enterprise data warehouse but I have a Bachelor of Computer Science
+	and over the years have done basic shell scripting, worked with many different relational/NO-SQL databases and programming in various languages
+	such as C, COBOL, HTML, JavaScript, PASCAL, and Pearl.  My team currently uses Java based code to access data on Oracle, Teradata and Hadoop.
+
+4. Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+	Unfortunately, most all my statistical experience dates back to the days of working toward my minor in Math while in college.  I did for a time
+	use the SAS Enterprise Miner to build churn and other product propensity models for Marketing.  That knowledge was based on a few vendor courses 
+	completed on how to use the product and related machine learning techniques.  I have also spent some time recently reviewing on-line material 
+	and basic intro courses as well as reading O'Reilly's "Think Stats" book.
+
+5. Do you have other experience with R or Python?
+	My first opportunity to use R was during the completion of the DS-700 Introduction course this past Summer semester.  I have not previously done
+	any programming with Python.
+
+6. What do you hope to learn in this class?
+	Looking forward to gaining hands-on experience with programming in R and Python.  The primary role of the team I manage today is to receive, load 
+	and ready the data for our analytic team members.  Very interested in learning the power of using Python and how it could be used within Verizon 
+	but most important to me is to gain a better understand of how in my role today I can make the data science journey at Verizon one that yields 
+	additional customer insights.  As well enhance my ability to advocate how what our team does makes a difference in the overall organizational goals.    
+
+7. Is there anything else you would like to share with us?
+	Outside of work I am an avid runner but mostly enjoy spending time with my wife and our three boys.  The boys play basketball, baseball, ride 
+	dirt bikes and dabble in different type of water sports at the nearby lake where we now live in Cumming, GA.
